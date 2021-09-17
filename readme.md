@@ -8,15 +8,15 @@ https://gist.github.com/avermeulen/72598daf29171088689793fc145b999c
 
 ## OO concepts
 
-* Inheritance
+### Inheritance
 
 In this example there are two examples of inheritance.
 
 Inheritance from `Car` and from `Engine`.
 
-* Polymorphism
+### Polymorphism
 
-The fact that a Car can type any Engine is an example of Polymorphism. As long as it's an Engine the Car class can be instantiated.
+The fact that a `Car` can have any `Engine` is an example of `Polymorphism`. As long as it's an `Engine` the `Car` class can be instantiated.
 
 ## UML
 
