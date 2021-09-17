@@ -23,7 +23,7 @@ The fact that a `Car` can have any `Engine` is an example of `Polymorphism`. As 
 Use PlantUML to draw an UML diagram to vizualize the current setup.
 
 * Learn more about creating UML class diagrams with PlantUML [here]( https://plantuml.com/class-diagram)
-* Create UML diagrams (here)[http://www.plantuml.com/plantuml/uml].
+* Create UML diagrams [here](http://www.plantuml.com/plantuml/uml]).
 
 There are various different UML class relationships.
 
@@ -35,9 +35,8 @@ To name a few:
 
 Use `Extension` for inheritance - to show one class inherit from another. And `Aggregation` to show one class reference another.
 
-Read the articale below when to use `Composition`.
-
-https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/
+Read [this article](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/
+) on the difference between `Composition` and `Aggregation`.
 
 ## Interfaces & Abstract Classes
 
