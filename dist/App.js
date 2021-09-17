@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var DieselEngine_1 = require("./engines/DieselEngine");
+var ElectricMotor_1 = require("./engines/ElectricMotor");
+var Engine_1 = require("./engines/Engine");
+var engine = new DieselEngine_1.DieselEngine();
+var electricEngine = new ElectricMotor_1.ElectricMotor();
+//new Car();
+engine.start();
+console.log(engine instanceof Engine_1.Engine);
+console.log(engine instanceof DieselEngine_1.DieselEngine);
+console.log(electricEngine.pistons());
